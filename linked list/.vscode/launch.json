@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sll",
+            "request": "launch",
+            "mainClass": "Sll",
+            "projectName": "linked list_23163387"
+        }
+    ]
+}
